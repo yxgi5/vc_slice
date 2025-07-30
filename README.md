@@ -1,0 +1,1 @@
+MIPI CSI输入可能有多个VC用于拆分多个vc, 其实axis_switch用来做这个有不理想的地方, 所以做了这样的ip
